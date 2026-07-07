@@ -38,4 +38,4 @@ main().catch((err) => {
   console.error("The sample encountered an error:", err);
 });
 
-umm...... maybe I never lettered annother code on this
+umm...... maybe I never lettered annother letter on this
