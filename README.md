@@ -64,6 +64,8 @@ btn.addEventListener("click", () => {
     score++;
     scoreText.textContent = score;
 });
+
+why is this dosen't work??
 </script>
 
 </body>
